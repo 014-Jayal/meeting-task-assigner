@@ -241,6 +241,5 @@ This project adheres fully to the assessment constraints:
 For queries or feedback:
 
 **Jayal Shah**  
-GitHub: [014-Jayal](https://github.com/014-Jayal/)
 Email: jayalshah04@gmail.com
 
