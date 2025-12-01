@@ -214,7 +214,7 @@ The system scans task keywords against skill mappings in `team_members.json`.
 
 ## 🎥 Demo
 
-Demo video link will be added here.
+Watch the full working demo here: [Click to Watch]((https://drive.google.com/file/d/1Q_FlOABguoL3TOQ83uWfwU20j3bvBCF0/view?usp=sharing))
 
 ---
 
