@@ -1,0 +1,8 @@
+description,assignee,priority,deadline,reason
+We need someone to fix the critical login work that uses reported yesterday these needs to be done by tomorrow evening Since his blocking users,Sakshi,High/Critical,yesterday,Matched skills (Frontend Developer)
+We should tackle,Team,Medium,Not specified,General task
+We need to update the API documentation before Friday's release,Mohit,Medium,Friday,Matched skills (Backend Engineer)
+And someone should designed the new onboarding screens for the next sprint,Arjun,Medium,Not specified,Matched skills (UI/UX Designer)
+Arjun didn't you work on you why designs last month,Arjun,Medium,last month,Explicitly mentioned
+We need to write unit test for the payment module,Lata,Medium,Not specified,Matched skills (QA Engineer)
+This depends on the login work fixed being completed first so let's plan,Sakshi,Medium,Not specified,Matched skills (Frontend Developer)
